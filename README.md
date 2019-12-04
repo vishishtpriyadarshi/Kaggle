@@ -1,3 +1,5 @@
-# Kaggle
+# Titanic - Machine Learning from Disaster
 
-## Jupyter Notebooks of competitions that I participated in Kaggle
+[Link to competition](https://www.kaggle.com/c/titanic/overview)   
+
+Jupyter Notebooks of Titanic ML competition that I participated in Kaggle
